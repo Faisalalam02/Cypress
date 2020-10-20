@@ -1,0 +1,19 @@
+{
+  "name": "Blinkist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.4.0"
+  },
+  "devDependencies": {
+    "cypress-wait-until": "^1.7.1",
+    "cypress-xpath": "^1.6.0"
+  }
+}
